@@ -16,6 +16,7 @@ def main():
 
     #read file n summarize expenses
     summarize_expenses(expense_file_path, budget)
+    print ("x")
     
 
 def get_user_expense():
